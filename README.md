@@ -62,6 +62,7 @@ Two important notes about the `cutout` files (referencing colour codes that are 
 
 > [!IMPORTANT]
 > Alignment of the box is crucial, as the spacing on some of the holes is tight. Make sure that the box is perfectly centered horizontally, and aim the laser to hit the box 50/50 on the bottom. Aligning on the top is rather difficult due to the transparant plastic not resulting in clear lines.
+
 ![](img/MJLO-cutout-1.jpg)
 
 ### Printing the carrier
